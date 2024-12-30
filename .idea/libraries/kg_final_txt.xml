@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kg_final.txt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/amazon-book/kg_final.txt.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
