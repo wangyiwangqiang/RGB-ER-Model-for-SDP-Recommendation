@@ -1,0 +1,94 @@
+0 The national parks pattern
+1 Desertification governance pattern
+2 Mine ecological rehabilitation pattern
+3 Ecosystem conservation and ecological compensation pattern
+4 Soil erosion control pattern
+5 Natural reserve pattern
+6 Natural park pattern
+7 Low carbon life pattern
+8 Green energy pattern
+9 Beautiful countryside pattern
+10 Cleaner production pattern
+11 Eco-city pattern
+12 Ecotourism pattern
+13 Ecocultural pattern
+14 Eco-park pattern
+15 Characteristic town pattern
+16 Animal manure collection recycling planting pattern
+17 Livestock, swamp and fruit pattern
+18 Staggered farming pattern
+19 Rice-livestock pattern
+20 Rice-frog pattern
+21 Rice-fish pattern
+22 Rice, fish and duck pattern
+23 Order-adoption agriculture pattern
+24 Ton of grain pattern
+25 Diversified three-dimensional cycle farming pattern
+26 Two-stage farming pattern
+27 Fermented bed farming pattern
+28 Free range breeding pattern
+29 Decentralized farming pattern
+30 Manure return pattern
+31 Manure resource utilization pattern
+32 Compound biogas utilization farming pattern
+33 High-quality farming pattern
+34 Industrialized farming pattern
+35 Shared agricultural pattern
+36 Photovoltaic agriculture pattern
+37 Orchard livestock pattern
+38 Internet agricultural products marketing pattern
+39 Chicken pig pattern
+40 rain harvesting planting pattern
+41 Straw recycling pattern
+42 Straw cycle farming pattern
+43 Fertilizer-saving agricultural pattern
+44 Water-saving agricultural pattern
+45 Economical hedge pattern
+46 Precision fertilization pattern
+47 Mycorrhizal intercropping pattern
+48 Mycorrhizal clean-up pattern
+49 Drought mitigation and seedling protection pattern
+50 Science and technology agricultural park pattern
+51 Scientific and technological planting pattern
+52 Science and technology for agriculture pattern
+53 space differential intercropping pattern
+54 Cross-regional breeding pattern
+55 Forest-vegetable intercropping pattern
+56 Forest, grass and livestock pattern
+57 Forest-grass intercropping pattern
+58 Forest-fruit intercropping pattern
+59 Forest-flower intercropping pattern
+60 Forest-food intercropping pattern
+61 Forest-seedling intercropping pattern
+62 Forest-herb intercropping pattern
+63 Sub-membrane drip irrigation pattern
+64 Agricultural industrial park pattern
+65 Agricultural innovation park pattern
+66 Agricultural crowdfunding pattern
+67 Agricultural storage pattern
+68 Lotus root farming pattern
+69 Full chain management of stocking pattern
+70 Sandy free-range pattern
+71 Facility-based agriculture pattern
+72 Facility breeding pattern
+73 Eco-park complex pattern
+74 Time lag intercropping pattern
+75 Aquatic polyculture pattern
+76 Water-fertilizer integration pattern
+77 Waterfowl aquaculture pattern
+78 Microbial agriculture pattern
+79 Internet of Things precision agriculture pattern
+80 smallholder pattern
+81 Circular breeding pattern
+82 Breeding and processing pattern
+83 Breeding restoration management pattern
+84 Biogas centralized utilization pattern
+85 Biogas utilization recycling planting pattern
+86 Stockbreeding plus pattern
+87 Agro-pastoral integrated pattern
+88 Stockbreeding package pattern
+89 Stockbreeding cycle pattern
+90 Cultivation and processing pattern
+91 Planting restoration pattern
+92 Hacienda picking pattern
+93 Self-propagating and self-supporting pattern
